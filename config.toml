@@ -1,0 +1,4 @@
+baseURL = "https://musicmomoburo.vercel.app"
+languageCode = "en-us"
+title = "Note Music Sheet"
+theme = "hugo-theme-minos"
